@@ -1,0 +1,50 @@
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrroj\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Lab2.resources
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Lab2.resources
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\OneDrive - NC\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csprojAssemblyReference.cache
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Lab2.resources
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.GenerateResource.cache
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.CoreCompileInputs.cache
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\Desktop\Lab 5\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Lab2.resources
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\Administrator\Desktop\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csprojAssemblyReference.cache
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Lab2.resources
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.GenerateResource.cache
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.csproj.CoreCompileInputs.cache
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\OneDrive\Desktop\CPA_LastWeek\Term6\F20 PROG1197-01 Advanced Data Structures\Assignments\Lab2_OligertCrrojm2\Lab2_OligertCrrojm\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb

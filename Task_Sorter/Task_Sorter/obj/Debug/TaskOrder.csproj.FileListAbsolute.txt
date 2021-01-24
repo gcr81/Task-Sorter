@@ -1,0 +1,10 @@
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe.config
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\bin\Debug\Lab2_OligertCrroj.pdb
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\TaskOrder.csprojAssemblyReference.cache
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.TaskOrder.resources
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.Properties.Resources.resources
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\TaskOrder.csproj.GenerateResource.cache
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\TaskOrder.csproj.CoreCompileInputs.cache
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.exe
+C:\Users\geric\OneDrive\Desktop\Task_Sorter\Lab2_OligertCrroj\obj\Debug\Lab2_OligertCrroj.pdb
